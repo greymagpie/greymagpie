@@ -1,3 +1,5 @@
+This is a personal account for tinkering and small projects.
+
 ✔ About Me
 
 - I’m currently working on a golang project to backup ms 365 user data
