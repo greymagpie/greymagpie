@@ -2,7 +2,7 @@
 
 This is a personal account for tinkering and small personal projects.
 
-About my current projects:
+Current topics to procrastinate:
 
 🔧 What I'm Working On: Currently, I'm developing a project in Go to back up Microsoft 365 user data.
 
