@@ -12,4 +12,4 @@ Current topics to procrastinate:
 
 🆘 Seeking Assistance: I'm looking for help with DTLS implementations on constrained IoT devices.
 
-📫 Contact Me: Feel free to reach out to me at github@vmlab.at for any interesting discussions or opportunities.
+📫 Contact Me: Feel free to reach out to me at github(at)vmlab(dot)at for any interesting discussions or opportunities.
